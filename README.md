@@ -78,8 +78,25 @@ lynx localhost
 
 ## Screenshots
 
-Project screenshots will be added in the `screenshots` folder.
+### Operating System Information
 
+![Operating System Information](screenshots/01-os-information.png)
+
+### Apache Service Status
+
+![Apache Service Status](screenshots/05-apache-status.png)
+
+### Creating the Custom Web Page
+
+![Creating the Custom Web Page](screenshots/06-create-custom-webpage.png)
+
+### Verifying with curl
+
+![Verifying with curl](screenshots/07-custom-webpage-curl.png)
+
+### Verifying with lynx
+
+![Verifying with lynx](screenshots/08-custom-webpage-lynx.png)
 ## Conclusion
 
 This project helped me understand the basic installation, configuration, and verification of an Apache Web Server on Ubuntu using Killercoda.
