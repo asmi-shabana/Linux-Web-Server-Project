@@ -97,6 +97,10 @@ lynx localhost
 ### Verifying with lynx
 
 ![Verifying with lynx](screenshots/08a-custom-webpage-lynx.png.png)
+
+### Verifying with lynx
+![Verifying with lynx](screenshots/08b-custom-webpage-lynx.png.png)
+
 ## Conclusion
 
 This project helped me understand the basic installation, configuration, and verification of an Apache Web Server on Ubuntu using Killercoda.
