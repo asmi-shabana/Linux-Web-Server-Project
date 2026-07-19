@@ -80,7 +80,7 @@ lynx localhost
 
 ### Operating System Information
 
-![Operating System Information](screenshots/01-os-information.png)
+![Operating System Information](screenshots/01-os-information.png.png)
 
 ### Apache Service Status
 
