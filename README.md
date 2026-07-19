@@ -84,19 +84,19 @@ lynx localhost
 
 ### Apache Service Status
 
-![Apache Service Status](screenshots/05-apache-status.png)
+![Apache Service Status](screenshots/05-apache-status.png.png)
 
 ### Creating the Custom Web Page
 
-![Creating the Custom Web Page](screenshots/06-create-custom-webpage.png)
+![Creating the Custom Web Page](screenshots/06-create-custom-webpage.png.png)
 
 ### Verifying with curl
 
-![Verifying with curl](screenshots/07-custom-webpage-curl.png)
+![Verifying with curl](screenshots/07-custom-webpage-curl.png.png)
 
 ### Verifying with lynx
 
-![Verifying with lynx](screenshots/08-custom-webpage-lynx.png)
+![Verifying with lynx](screenshots/08a-custom-webpage-lynx.png.png)
 ## Conclusion
 
 This project helped me understand the basic installation, configuration, and verification of an Apache Web Server on Ubuntu using Killercoda.
